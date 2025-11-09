@@ -96,7 +96,7 @@ jobs:
       
       - name: copy metadata
         run: |
-          cp -Rf "tmp/metadata/trimuismartpro/*" "./artifact_dir/${{ matrix.output }}"
+          cp -Rf "tmp/metadata/trimuismartpro/." "./artifact_dir/${{ matrix.output }}"
       
       
       - if: ${{ matrix.binarycopy != ''}}
