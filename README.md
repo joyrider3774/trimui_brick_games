@@ -79,7 +79,7 @@ Formula 1 Game & Watch is a small, fictive formula 1 game & watch style lcd game
 ---
 
 ## Mazethingie (Playdate)
-![Mazethingie Screenshot 1](https://raw.githubusercontent.com/joyrider3774/mazethingie_playdate/main/metadata/screenshots/screenshot1.png) ![Mazethingie Screenshot 2](https://raw.githubusercontent.com/joyrider3774/mazethingie_playdate/main/metadata/screenshots/screenshot2.png)
+![Mazethingie Screenshot 1](https://raw.githubusercontent.com/joyrider3774/mazethingie_playdate/main/screenshots/screenshot1.png) ![Mazethingie Screenshot 2](https://raw.githubusercontent.com/joyrider3774/mazethingie_playdate/main/screenshots/screenshot2.png)
 
 Mazethingie which is a maze generator / player.
 
